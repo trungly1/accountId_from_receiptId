@@ -6,7 +6,7 @@
 
 2. Use `script.py` to extract the accountId from a receiptId string and write the associated sales object to a single file called output_data.json.  This will output the Sale array with enclosing []. This output will comform to the json response format of `GET /f/finance/:businessLocationId/sale?accountId=A83147.4`. See `output_script(Sample).json` to see an example.  
 
-Use `app.py` to extract the accountId from a receiptId string and write the associated sales object to a single file called output_data. Within this script, the [] will be omitted from the output file as if you copy pasted the sales array from data.json manually. See `output_app(Sample).json` to see an example.
+3. Use `app.py` to extract the accountId from a receiptId string and write the associated sales object to a single file called output_data. Within this script, the [] will be omitted from the output file as if you copy pasted the sales array from data.json manually. See `output_app(Sample).json` to see an example.
 
 ## How to use
 
