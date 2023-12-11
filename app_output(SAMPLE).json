@@ -1,0 +1,122 @@
+{
+  "accountReference": "AhbB5w9RT0GcTeep1mPN4Q==",
+  "accountFiscId": "A845677.9166",
+  "receiptId": "R845677.9027",
+  "source": {
+    "initialAccountId": "A845677.9166"
+  },
+  "salesLines": [
+    {
+      "id": "S845677.23156",
+      "totalNetAmountWithTax": "5.400000",
+      "totalNetAmountWithoutTax": "5.094340",
+      "menuListPrice": "5.40",
+      "unitCostPrice": "0.00",
+      "serviceCharge": "0.00",
+      "discountAmount": "0.00",
+      "taxAmount": "0.305660",
+      "taxCode": "TVA6",
+      "taxRatePercentage": "6.00",
+      "taxLines": [
+        {
+          "taxId": "878088883798023",
+          "taxCode": "TVA6",
+          "taxRate": "1.06",
+          "taxAmount": "0.30566",
+          "taxIncluded": true
+        }
+      ],
+      "accountDiscountAmount": "0.00",
+      "totalDiscountAmount": "0.00",
+      "sku": "10005911",
+      "name": "Panini Chicken BBQ",
+      "statisticGroup": "Hot Sandwiches",
+      "quantity": "1.000",
+      "accountingGroup": {
+        "accountingGroupId": 878088883800876,
+        "name": "Hot Sandwiches",
+        "code": ""
+      },
+      "currency": "EUR",
+      "tags": [],
+      "categories": [
+        {
+          "category": "default",
+          "value": "Hot Sandwiches"
+        }
+      ],
+      "timeOfSale": "2023-12-07T14:33:12.107Z",
+      "deviceId": 845677,
+      "deviceName": "iPad277"
+    },
+    {
+      "id": "S845677.23155",
+      "totalNetAmountWithTax": "3.700000",
+      "totalNetAmountWithoutTax": "3.490566",
+      "menuListPrice": "3.70",
+      "unitCostPrice": "0.00",
+      "serviceCharge": "0.00",
+      "discountAmount": "0.00",
+      "taxAmount": "0.209434",
+      "taxCode": "TVA6",
+      "taxRatePercentage": "6.00",
+      "taxLines": [
+        {
+          "taxId": "878088883798023",
+          "taxCode": "TVA6",
+          "taxRate": "1.06",
+          "taxAmount": "0.209434",
+          "taxIncluded": true
+        }
+      ],
+      "accountDiscountAmount": "0.00",
+      "totalDiscountAmount": "0.00",
+      "sku": "10006067",
+      "name": "Oat Cappuccino normaal",
+      "statisticGroup": "Hot Drinks",
+      "quantity": "1.000",
+      "accountingGroup": {
+        "accountingGroupId": 878088883801159,
+        "name": "Hot Drinks",
+        "code": ""
+      },
+      "currency": "EUR",
+      "tags": [],
+      "categories": [
+        {
+          "category": "default",
+          "value": "Hot Drinks"
+        }
+      ],
+      "timeOfSale": "2023-12-07T14:33:09.648Z",
+      "deviceId": 845677,
+      "deviceName": "iPad277"
+    }
+  ],
+  "payments": [
+    {
+      "code": "IKEFT",
+      "description": "CCV",
+      "paymentMethodId": 878088883798034,
+      "netAmountWithTax": "9.10",
+      "currency": "EUR",
+      "tip": "0.00",
+      "type": "NORMAL",
+      "deviceId": 845677,
+      "deviceName": "iPad277",
+      "externalReference": "SNKKREJZXVNS",
+      "fiscId": "T845677.9074",
+      "uuid": "kCAzIFlETtCygBPJlB8nAQ==",
+      "fiscDate": "2023-12-07T14:33:35.005Z",
+      "surcharge": "0.00"
+    }
+  ],
+  "timeOfOpening": "2023-12-07T14:31:49.96Z",
+  "timeOfCloseAndPaid": "2023-12-07T14:33:35.012Z",
+  "tableName": "Bestelling 180",
+  "type": "SALE",
+  "nbCovers": 0.0,
+  "dineIn": false,
+  "deviceId": 845677,
+  "deviceName": "iPad277"
+}
